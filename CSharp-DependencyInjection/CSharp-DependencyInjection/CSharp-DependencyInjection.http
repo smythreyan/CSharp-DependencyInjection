@@ -1,0 +1,6 @@
+@CSharp_DependencyInjection_HostAddress = http://localhost:5257
+
+GET {{CSharp_DependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
